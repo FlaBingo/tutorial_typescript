@@ -1,0 +1,1 @@
+npm init vite@latest my-vite-ts-project -- --template vanilla-ts
